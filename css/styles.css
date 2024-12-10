@@ -731,6 +731,10 @@ img {
   margin: 6.4rem 0 10rem;
 }
 
+.contact-b form .btn:hover {
+  opacity: 0.6;
+}
+
 .map-responsive {
   overflow: hidden;
   padding-bottom: 56.25%;
